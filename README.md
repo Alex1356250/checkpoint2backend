@@ -7,7 +7,7 @@ npm run dev
 
 # Base de données à saisir dans Apollo Server dans une seule mutation:
 
-mutation CreateAll10Countries {
+mutation CreateAllCountries {
   createCountries(
         countries: [
         {
